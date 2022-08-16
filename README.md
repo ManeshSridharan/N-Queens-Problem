@@ -17,5 +17,7 @@ Running the code :
   - As a value lesser than 4 would not produce any solution for the N-Queens Problem 
 
 Sample output: 
+
+
 ![image](https://user-images.githubusercontent.com/111338450/184816610-06adb82b-f0d4-4b5b-8f14-f6f4c595a6fc.png)
 
