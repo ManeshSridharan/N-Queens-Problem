@@ -1,13 +1,15 @@
-# N-Queens-Problem, Sunway University Artificial Intelligence Final Assignment
+# N-Queens-Problem 
+Sunway University Artificial Intelligence Final Assignment
 
-Task: 
+
+## Task: 
 - You are asked to identify (if existed) the placement of eight queens on an 8-by-8 chess board such that no queen is able to remove
 other queens.
 
 
 Created a solution for the N-Queens problem using the backtracking algorithm
 
-Running the code : 
+## Running the code : 
 - Input the number of queens required for the program 
 - Run the code
 - A text-based visualisation of the board with the solution is displayed
