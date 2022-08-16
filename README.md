@@ -22,7 +22,7 @@ Sample output:
 ![image](https://user-images.githubusercontent.com/111338450/184816610-06adb82b-f0d4-4b5b-8f14-f6f4c595a6fc.png)
 
 
-## Authors
+## Collaborators
 
 - [Ching Xuen](https://github.com/muchenthusiast)
 - [Tan Ming Siew](https://github.com/TmS1108)
